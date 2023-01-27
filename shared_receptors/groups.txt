@@ -1,0 +1,50 @@
+Receptors found in one complex alone
+alpha-trombin: 1bcu
+FAB fragment of 28B4: 1kel
+Ala190 protease: 1o5b
+Urokinase: 1sqa
+Bovine pancreatic ribonuclease A: 1u1b
+iGluR5: 1vso
+Anti-cholera toxin antibody: 1zea
+Glycoside hydrolase from C. perfringens: 2cbj
+beta-glucosidase: 2cet
+Hepatitis C virus RNA polymerase: 2d3u
+Antibody FAB: 2pcp
+Transcriptional CDK inhibitor: 2xnb
+XA Factor: 2y5h
+Dehydrosqualene synthase: 3acw
+Human glutamate receptor: 3fv1
+Rat androgen receptor: 3g0w
+iGluR5 (different structure): 3gbb
+Abl kinase: 3k5v
+Plasminogen activator: 3kgp
+Abl kinase (different structure): 3mss
+HIV type 1 integrase: 3zsx
+BACE: 4djv
+GluA2: 4g8m
+beta-secretase: 4gid
+
+Receptors found in more than one complex
+Human glutathione S-transferase: 10gs, 2gss, 1lbk
+HIV-1 Protease: 1a30, 3cyx, 4djr
+Grb2 SH2 domain: 1jyq, 3ov1, 3s8o
+Orotidine-5-monophosphate decarboxylase: 1lol, 1loq, 1lor
+Chk1 kinase: 1nvq, 2brb, 3jvs
+PKA catalytic subunit: 1q8t, 1q8u, 3ag9
+CEL5A endoglucanase: 1w3k, 1w3l
+Ribonuclease A: 1w4o, 3dxg
+Hsp90: 1yc1, 2iwx, 2vw5, 2xdl, 2yge, 2yki
+Androgen receptor W741L domain: 1z95, 3b68
+CDK2: 2fvd, 3pxf
+Human PNMT: 2g70, 2obf
+PTP1B: 2hb1, 2qbp, 2qbr
+EPSPS: 2pq9, 2qft, 3fk1
+Endothiapepsin: 2v00, 3pww, 3uri
+Aurora-A: 2wtv, 3myg, 3uo4
+Human PPAR-gamma: 2yfe, 3u9q
+Human CK2-alpha: 2zjw, 3owj, 3pe2
+Human transthyretin: 3cft, 4des, 4dew
+Pantothenate synthetase: 3coy, 3imc, 3ivg
+P38 kinase: 3e93, 3gcs, 3huc
+beta-lactamase: 3g2z, 4de1, 4de2
+Bovine beta-lactoglobulin: 3nq3, 3ueu, 3uex

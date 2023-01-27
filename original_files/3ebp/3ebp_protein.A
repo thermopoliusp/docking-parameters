@@ -1,0 +1,168 @@
+Cadeia A
+Cadeia ; Numero de aminoacidos da cadeia ; Numero de ligacoes dissulfidicas  : (a1,i5,i5)
+A  810    0
+Aminoacidos envolvidos nas ligacoes dissulfidicas  : n(i4,i4,/)
+Sequencia de aminoacidos da cadeia A  : n(10(a5,1x),/)
+GLNI  ILE   SER   VAL   ARG   GLY   LEU   ALA   GLY   VAL  
+GLU   ASN   VAL   THR   GLU   LEU   LYS   LYS   ASN   PHE  
+ASN   ARG   HISE  LEU   HISD  PHE   THR   LEU   VAL   LYS  
+ASP   ARG   ASN   VAL   ALA   THR   PRO   ARG   ASP   TYR  
+TYR   PHE   ALA   LEU   ALA   HISD  THR   VAL   ARG   ASP  
+HISD  LEU   VAL   GLY   ARG   TRP   ILE   ARG   THR   GLN  
+GLN   HISD  TYR   TYR   GLU   LYS   ASP   PRO   LYS   ARG  
+ILE   TYR   TYR   LEU   SER   LEU   GLU   PHE   TYR   MET  
+GLY   ARG   THR   LEU   GLN   ASN   THR   MET   VAL   ASN  
+LEU   ALA   LEU   GLU   ASN   ALA   CYSH  ASP   GLU   ALA  
+THR   TYR   GLN   LEU   GLY   LEU   ASP   MET   GLU   GLU  
+LEU   GLUN2 GLU   ILE   GLU   GLU   ASP   ALA   GLY   LEU  
+GLY   ASN   GLY   GLY   LEU   GLY   ARG   LEU   ALA   ALA  
+CYSH  PHE   LEU   ASP   SER   MET   ALA   THR   LEU   GLY  
+LEU   ALA   ALA   TYR   GLY   TYR   GLY   ILE   ARG   TYR  
+GLU   PHE   GLY   ILE   PHE   ASN   GLN   LYS   ILE   CYSH 
+GLY   GLY   TRP   GLN   MET   GLU   GLU   ALA   ASPN2 ASP  
+TRP   LEU   ARG   TYR   GLY   ASN   PRO   TRP   GLU   LYS  
+ALA   ARG   PRO   GLU   PHE   THR   LEU   PRO   VAL   HISE 
+PHE   TYR   GLY   ARG   VAL   GLU   HISD  THR   SER   GLN  
+GLY   ALA   LYS   TRP   VAL   ASP   THR   GLN   VAL   VAL  
+LEU   ALA   MET   PRO   TYR   ASP   THR   PRO   VAL   PRO  
+GLY   TYR   ARG   ASN   ASN   VAL   VAL   ASN   THR   MET  
+ARG   LEU   TRP   SER   ALA   LYS   ALA   PRO   ASN   ASP  
+PHE   ASN   LEU   GLY   TYR   ILE   GLN   ALA   VAL   LEU  
+ASP   ARG   ASN   LEU   ALA   GLU   ASN   ILE   SER   ARG  
+VAL   LEU   TYR   PRO   ASN   ASP   ASN   PHE   PHE   GLU  
+GLY   LYS   GLU   LEU   ARG   LEU   LYS   GLN   GLUN2 TYR  
+PHE   VAL   VAL   ALA   ALA   THR   LEU   GLN   ASP   ILE  
+ILE   ARG   ARG   PHE   LYS   SER   SER   THR   ASN   PHE  
+ASP   ALA   PHE   PRO   ASP   LYS   VAL   ALA   ILE   GLN  
+LEU   ASN   ASP   THR   HISP  PRO   SER   LEU   ALA   ILE  
+PRO   GLU   LEU   MET   ARG   VAL   LEU   VAL   ASP   LEU  
+GLU   ARG   LEU   ASP   TRP   ASP   LYS   ALA   TRP   GLU  
+VAL   THR   VAL   LYS   THR   CYSH  ALA   TYR   THR   ASN  
+HISE  THR   VAL   LEU   PRO   GLU   ALA   LEU   GLU   ARG  
+TRP   PRO   VAL   HISE  LEU   LEU   GLU   THR   LEU   LEU  
+PRO   ARG   HISE  LEU   GLN   ILE   ILE   TYR   GLU   ILE  
+ASN   GLN   ARG   PHE   LEU   ASN   ARG   VAL   ALA   ALA  
+ALA   PHE   PRO   GLY   ASP   VAL   ASP   ARG   LEU   ARG  
+ARG   MET   SER   LEU   VAL   GLU   GLU   GLY   ALA   VAL  
+LYS   ARG   ILE   ASN   MET   ALA   HISD  LEU   CYSH  ILE  
+ALA   GLY   SER   HISE  ALA   VAL   ASN   GLY   VAL   ALA  
+ARG   ILE   HISE  SER   GLU   ILE   LEU   LYS   LYS   THR  
+ILE   PHE   LYS   ASP   PHE   TYR   GLU   LEU   GLU   PRO  
+HISE  LYS   PHE   GLN   ASN   LYS   THR   ASN   GLY   ILE  
+THR   PRO   ARG   ARG   TRP   LEU   VAL   LEU   CYSH  ASN  
+PRO   GLY   LEU   ALA   GLU   ILE   ILE   ALA   GLU   ARG  
+ILE   GLY   GLU   GLU   TYR   ILE   SER   ASP   LEU   ASP  
+GLN   LEU   ARG   LYS   LEU   LEU   SER   TYR   VAL   ASP  
+ASP   GLU   ALA   PHE   ILE   ARG   ASP   VAL   ALA   LYS  
+VAL   LYS   GLN   GLU   ASN   LYS   LEU   LYS   PHE   ALA  
+ALA   TYR   LEU   GLU   ARG   GLU   TYR   LYS   VAL   HISD 
+ILE   ASN   PRO   ASN   SER   LEU   PHE   ASP   VAL   GLN  
+VAL   LYS   ARG   ILE   HISE  GLU   TYR   LYS   ARG   GLN  
+LEU   LEU   ASN   CYSH  LEU   HISE  VAL   ILE   THR   LEU  
+TYR   ASN   ARG   ILE   LYS   LYS   GLU   PRO   ASN   LYS  
+PHE   VAL   VAL   PRO   ARG   THR   VAL   MET   ILE   GLY  
+GLY   LYS   ALA   ALA   PRO   GLY   TYR   HISE  MET   ALA  
+LYS   MET   ILE   ILE   LYS   LEU   ILE   THR   ALA   ILE  
+GLY   ASP   VAL   VAL   ASN   HISD  ASP   PRO   VAL   VAL  
+GLY   ASP   ARG   LEU   ARG   VAL   ILE   PHE   LEU   GLU  
+ASN   TYR   ARG   VAL   SER   LEU   ALA   GLU   LYS   VAL  
+ILE   PRO   ALA   ALA   ASP   LEU   SER   GLUN2 GLN   ILE  
+SER   THR   ALA   GLY   THR   GLU   ALA   SER   GLY   THR  
+GLY   ASN   MET   LYS   PHE   MET   LEU   ASN   GLY   ALA  
+LEU   THR   ILE   GLY   THR   MET   ASP   GLY   ALA   ASN  
+VAL   GLU   MET   ALA   GLU   GLU   ALA   GLY   GLU   GLU  
+ASN   PHE   PHE   ILE   PHE   GLY   MET   ARG   VAL   GLU  
+ASP   VAL   ASP   ARG   LEU   ASP   GLN   ARG   GLY   TYR  
+ASN   ALA   GLN   GLU   TYR   TYR   ASP   ARG   ILE   PRO  
+GLU   LEU   ARG   GLN   ILE   ILE   GLU   GLN   LEU   SER  
+SER   GLY   PHE   PHE   SER   PRO   LYS   GLN   PRO   ASP  
+LEU   PHE   LYS   ASP   ILE   VAL   ASN   MET   LEU   MET  
+HISD  HISD  ASP   ARG   PHE   LYS   VAL   PHE   ALA   ASP  
+TYR   GLU   GLU   TYR   VAL   LYS   CYSH  GLN   GLU   ARG  
+VAL   SER   ALA   LEU   TYR   LYS   ASN   PRO   ARG   GLU  
+TRP   THR   ARG   MET   VAL   ILE   ARG   ASN   ILE   ALA  
+THR   SER   GLY   LYS   PHE   SER   SER   ASP   ARG   THR  
+ILE   ALA   GLN   TYR   ALA   ARG   GLU   ILE   TRP   GLY  
+VAL   GLU   PRO   SER   ARG   GLN   ARG   LEU   PRO   ALAT 
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

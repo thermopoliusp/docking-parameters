@@ -1,0 +1,61 @@
+Cadeia B
+Cadeia ; Numero de aminoacidos da cadeia ; Numero de ligacoes dissulfidicas  : (a1,i5,i5)
+B  279    0
+Aminoacidos envolvidos nas ligacoes dissulfidicas  : n(i4,i4,/)
+Sequencia de aminoacidos da cadeia A  : n(10(a5,1x),/)
+ALAI  ILE   PRO   ALA   PHE   HISD  PRO   GLY   GLU   LEU  
+ASN   VAL   TYR   SER   ALA   PRO   GLY   ASP   VAL   ALA  
+ASP   VAL   SER   ARG   ALA   LEU   ARG   LEU   THR   GLY  
+ARG   ARG   VAL   MET   LEU   VAL   PRO   THR   MET   GLY  
+ALA   LEU   HISE  GLU   GLY   HISE  LEU   ALA   LEU   VAL  
+ARG   ALA   ALA   LYS   ARG   VAL   PRO   GLY   SER   VAL  
+VAL   VAL   VAL   SER   ILE   PHE   VAL   ASN   PRO   MET  
+GLN   ALA   TYR   PRO   ARG   THR   PRO   ASP   ASP   ASP  
+LEU   ALA   GLN   LEU   ARG   ALA   GLU   GLY   VAL   GLU  
+ILE   ALA   PHE   THR   PRO   THR   THR   ALA   ALA   MET  
+TYR   PRO   ASP   GLY   LEU   ARG   THR   THR   VAL   GLN  
+PRO   GLY   PRO   LEU   ALA   ALA   GLU   LEU   GLU   GLY  
+GLY   PRO   ARG   PRO   THR   HISD  PHE   ALA   GLY   VAL  
+LEU   THR   VAL   VAL   LEU   LYS   LEU   LEU   GLN   ILE  
+VAL   ARG   PRO   ASP   ARG   VAL   PHE   PHE   GLY   GLU  
+LYS   ASP   TYR   GLN   GLN   LEU   VAL   LEU   ILE   ARG  
+GLN   LEU   VAL   ALA   ASP   PHE   ASN   LEU   ASP   VAL  
+ALA   VAL   VAL   GLY   VAL   PRO   THR   VAL   ARG   GLU  
+ALA   ASP   GLY   LEU   ALA   MET   SER   SER   ARG   ASN  
+ARG   TYR   LEU   ASP   PRO   ALA   GLN   ARG   ALA   ALA  
+ALA   VAL   ALA   LEU   SER   ALA   ALA   LEU   THR   ALA  
+ALA   ALA   HISD  ALA   ALA   THR   ALA   GLY   ALA   GLN  
+ALA   ALA   LEU   ASP   ALA   ALA   ARG   ALA   VAL   LEU  
+ASP   ALA   ALA   PRO   GLY   VAL   ALA   VAL   ASP   TYR  
+LEU   GLU   LEU   ARG   ASP   ILE   GLY   LEU   GLY   PRO  
+MET   PRO   LEU   ASN   GLY   SER   GLY   ARG   LEU   LEU  
+VAL   ALA   ALA   ARG   LEU   GLY   THR   THR   ARG   LEU  
+LEU   ASP   ASN   ILE   ALA   ILE   GLU   ILE   GLYT       
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                               
+

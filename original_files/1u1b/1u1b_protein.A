@@ -1,0 +1,31 @@
+Cadeia A
+Cadeia ; Numero de aminoacidos da cadeia ; Numero de ligacoes dissulfidicas  : (a1,i5,i5)
+A  124    0
+Aminoacidos envolvidos nas ligacoes dissulfidicas  : n(i4,i4,/)
+Sequencia de aminoacidos da cadeia A  : n(10(a5,1x),/)
+LYSI  GLU   THR   ALA   ALA   ALA   LYS   PHE   GLU   ARG  
+GLN   HISD  MET   ASP   SER   SER   THR   SER   ALA   ALA  
+SER   SER   SER   ASN   TYR   CYSS  ASN   GLN   MET   MET  
+LYS   SER   ARG   ASN   LEU   THR   LYS   ASP   ARG   CYSS 
+LYS   PRO   VAL   ASN   THR   PHE   VAL   HISP  GLU   SER  
+LEU   ALA   ASP   VAL   GLN   ALA   VAL   CYSS  SER   GLN  
+LYS   ASN   VAL   ALA   CYSS  LYS   ASN   GLY   GLN   THR  
+ASN   CYSS  TYR   GLN   SER   TYR   SER   THR   MET   SER  
+ILE   THR   ASP   CYSS  ARG   GLU   THR   GLY   SER   SER  
+LYS   TYR   PRO   ASN   CYSS  ALA   TYR   LYS   THR   THR  
+GLN   ALA   ASN   LYS   HISP  ILE   ILE   VAL   ALA   CYSS 
+GLU   GLY   ASN   PRO   TYR   VAL   PRO   VAL   HISP  PHE  
+ASP   ALA   SER   VALT                                     
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                                                           
+                 
+

@@ -1,0 +1,19 @@
+*.A linguist-detectable=false
+*.B linguist-detectable=false
+*.C linguist-detectable=false
+*.D linguist-detectable=false
+*.E linguist-detectable=false
+*.F linguist-detectable=false
+*.G linguist-detectable=false
+*.H linguist-detectable=false
+*.I linguist-detectable=false
+*.J linguist-detectable=false
+*.K linguist-detectable=false
+*.L linguist-detectable=false
+
+*.conf linguist-detectable=false
+*.in linguist-detectable=false
+*.out linguist-detectable=false
+*.pdb linguist-detectable=false
+*.sdf linguist-detectable=false
+*.top linguist-detectable=false

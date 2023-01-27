@@ -1,0 +1,166 @@
+ ASPI   ASP    LYS    LEU    HISE   SER    GLN    ALA    ASN    LEU  
+ MET    ARG    LEU    LYS    SER    ASP    LEU    PHE    ASN    ARG  
+ SER    PRO    MET    TYR    PRO    GLY    PRO    THR    LYS    ASP  
+ ASP    PRO    LEU    THR    VAL    THR    LEU    GLY    PHE    THR  
+ LEU    GLN    ASP    ILE    VAL    LYS    ALA    ASP    SER    SER  
+ THR    ASN    GLU    VAL    ASP    LEU    VAL    TYR    TYR    GLU  
+ GLN    GLN    ARG    TRP    LYS    LEU    ASN    SER    LEU    MET  
+ TRP    ASP    PRO    ASN    GLU    TYR    GLY    ASN    ILE    THR  
+ ASP    PHE    ARG    THR    SER    ALA    ALA    ASP    ILE    TRP  
+ THR    PRO    ASP    ILE    THR    ALA    TYR    SER    SER    THR  
+ ARG    PRO    VAL    GLN    VAL    LEU    SER    PRO    GLN    ILE  
+ ALA    VAL    VAL    THR    HISD   ASP    GLY    SER    VAL    MET  
+ PHE    ILE    PRO    ALA    GLN    ARG    LEU    SER    PHE    MET  
+ CYSS   ASP    PRO    THR    GLY    VAL    ASP    SER    GLU    GLU  
+ GLY    ALA    THR    CYSS   ALA    VAL    LYS    PHE    GLY    SER  
+ TRP    VAL    TYR    SER    GLY    PHE    GLU    ILE    ASP    LEU  
+ LYS    THR    ASP    THR    ASP    GLN    VAL    ASP    LEU    SER  
+ SER    TYR    TYR    ALA    SER    SER    LYS    TYR    GLU    ILE  
+ LEU    SER    ALA    THR    GLN    THR    ARG    GLN    VAL    GLN  
+ HISE   TYR    SER    CYSS   CYSS   PRO    GLU    PRO    TYR    ILE  
+ ASP    VAL    ASN    LEU    VAL    VAL    LYS    PHE    ARG    GLU  
+ ARG    ARGT                             
+
+NUMERO DE AMINOACIDOS DA CADEIA : 216
+
+RECONSTRUCAO  DO ATOMO    21  CG  DO AMINOACIDO     2 LYS  
+RECONSTRUCAO  DO ATOMO    22  CD  DO AMINOACIDO     2 LYS  
+RECONSTRUCAO  DO ATOMO    23  CE  DO AMINOACIDO     2 LYS  
+RECONSTRUCAO  DO ATOMO    24  NZ  DO AMINOACIDO     2 LYS  
+RECONSTRUCAO  DO ATOMO  2109  OXT DO AMINOACIDO   216 ARGT 
+
+NUMERO DE ATOMOS DA CADEIA :  2109
+
+FORAM RECONSTRUIDOS     3 ATOMOS DE HIDROGENIO
+ ASPI   ASP    LYS    LEU    HISE   SER    GLN    ALA    ASN    LEU  
+ MET    ARG    LEU    LYS    SER    ASP    LEU    PHE    ASN    ARG  
+ SER    PRO    MET    TYR    PRO    GLY    PRO    THR    LYS    ASP  
+ ASP    PRO    LEU    THR    VAL    THR    LEU    GLY    PHE    THR  
+ LEU    GLN    ASP    ILE    VAL    LYS    ALA    ASP    SER    SER  
+ THR    ASN    GLU    VAL    ASP    LEU    VAL    TYR    TYR    GLU  
+ GLN    GLN    ARG    TRP    LYS    LEU    ASN    SER    LEU    MET  
+ TRP    ASP    PRO    ASN    GLU    TYR    GLY    ASN    ILE    THR  
+ ASP    PHE    ARG    THR    SER    ALA    ALA    ASP    ILE    TRP  
+ THR    PRO    ASP    ILE    THR    ALA    TYR    SER    SER    THR  
+ ARG    PRO    VAL    GLN    VAL    LEU    SER    PRO    GLN    ILE  
+ ALA    VAL    VAL    THR    HISD   ASP    GLY    SER    VAL    MET  
+ PHE    ILE    PRO    ALA    GLN    ARG    LEU    SER    PHE    MET  
+ CYSS   ASP    PRO    THR    GLY    VAL    ASP    SER    GLU    GLU  
+ GLY    ALA    THR    CYSS   ALA    VAL    LYS    PHE    GLY    SER  
+ TRP    VAL    TYR    SER    GLY    PHE    GLU    ILE    ASP    LEU  
+ LYS    THR    ASP    THR    ASP    GLN    VAL    ASP    LEU    SER  
+ SER    TYR    TYR    ALA    SER    SER    LYS    TYR    GLU    ILE  
+ LEU    SER    ALA    THR    GLN    THR    ARG    GLN    VAL    GLN  
+ HISE   TYR    SER    CYSS   CYSS   PRO    GLU    PRO    TYR    ILE  
+ ASP    VAL    ASN    LEU    VAL    VAL    LYS    PHE    ARG    GLU  
+ ARG    ARGT                      
+
+NUMERO DE AMINOACIDOS DA CADEIA : 215
+
+RECONSTRUCAO  DO ATOMO  2088  OXT DO AMINOACIDO   215 ALAT 
+
+NUMERO DE ATOMOS DA CADEIA :  2088
+
+FORAM RECONSTRUIDOS     0 ATOMOS DE HIDROGENIO
+ ASPI   ASP    LYS    LEU    HISE   SER    GLN    ALA    ASN    LEU  
+ MET    ARG    LEU    LYS    SER    ASP    LEU    PHE    ASN    ARG  
+ SER    PRO    MET    TYR    PRO    GLY    PRO    THR    LYS    ASP  
+ ASP    PRO    LEU    THR    VAL    THR    LEU    GLY    PHE    THR  
+ LEU    GLN    ASP    ILE    VAL    LYS    ALA    ASP    SER    SER  
+ THR    ASN    GLU    VAL    ASP    LEU    VAL    TYR    TYR    GLU  
+ GLN    GLN    ARG    TRP    LYS    LEU    ASN    SER    LEU    MET  
+ TRP    ASP    PRO    ASN    GLU    TYR    GLY    ASN    ILE    THR  
+ ASP    PHE    ARG    THR    SER    ALA    ALA    ASP    ILE    TRP  
+ THR    PRO    ASP    ILE    THR    ALA    TYR    SER    SER    THR  
+ ARG    PRO    VAL    GLN    VAL    LEU    SER    PRO    GLN    ILE  
+ ALA    VAL    VAL    THR    HISD   ASP    GLY    SER    VAL    MET  
+ PHE    ILE    PRO    ALA    GLN    ARG    LEU    SER    PHE    MET  
+ CYSS   ASP    PRO    THR    GLY    VAL    ASP    SER    GLU    GLU  
+ GLY    ALA    THR    CYSS   ALA    VAL    LYS    PHE    GLY    SER  
+ TRP    VAL    TYR    SER    GLY    PHE    GLU    ILE    ASP    LEU  
+ LYS    THR    ASP    THR    ASP    GLN    VAL    ASP    LEU    SER  
+ SER    TYR    TYR    ALA    SER    SER    LYS    TYR    GLU    ILE  
+ LEU    SER    ALA    THR    GLN    THR    ARG    GLN    VAL    GLN  
+ HISE   TYR    SER    CYSS   CYSS   PRO    GLU    PRO    TYR    ILE  
+ ASP    VAL    ASN    LEU    VAL    VAL    LYS    PHE    ARG    GLU  
+ ARG    ARGT        
+
+NUMERO DE AMINOACIDOS DA CADEIA : 213
+
+RECONSTRUCAO  DO ATOMO     4  CG  DO AMINOACIDO     1 ASPI 
+RECONSTRUCAO  DO ATOMO     5  OD1 DO AMINOACIDO     1 ASPI 
+RECONSTRUCAO  DO ATOMO     6  OD2 DO AMINOACIDO     1 ASPI 
+RECONSTRUCAO  DO ATOMO    16  CG  DO AMINOACIDO     2 ASP  
+RECONSTRUCAO  DO ATOMO    17  OD1 DO AMINOACIDO     2 ASP  
+RECONSTRUCAO  DO ATOMO    18  OD2 DO AMINOACIDO     2 ASP  
+RECONSTRUCAO  DO ATOMO    25  CG  DO AMINOACIDO     3 ASP  
+RECONSTRUCAO  DO ATOMO    26  OD1 DO AMINOACIDO     3 ASP  
+RECONSTRUCAO  DO ATOMO    27  OD2 DO AMINOACIDO     3 ASP  
+RECONSTRUCAO  DO ATOMO    34  CG  DO AMINOACIDO     4 ASP  
+RECONSTRUCAO  DO ATOMO    35  OD1 DO AMINOACIDO     4 ASP  
+RECONSTRUCAO  DO ATOMO    36  OD2 DO AMINOACIDO     4 ASP  
+RECONSTRUCAO  DO ATOMO  2065  OXT DO AMINOACIDO   213 ARGT 
+
+NUMERO DE ATOMOS DA CADEIA :  2065
+
+FORAM RECONSTRUIDOS     0 ATOMOS DE HIDROGENIO
+ ASPI   ASP    LYS    LEU    HISE   SER    GLN    ALA    ASN    LEU  
+ MET    ARG    LEU    LYS    SER    ASP    LEU    PHE    ASN    ARG  
+ SER    PRO    MET    TYR    PRO    GLY    PRO    THR    LYS    ASP  
+ ASP    PRO    LEU    THR    VAL    THR    LEU    GLY    PHE    THR  
+ LEU    GLN    ASP    ILE    VAL    LYS    ALA    ASP    SER    SER  
+ THR    ASN    GLU    VAL    ASP    LEU    VAL    TYR    TYR    GLU  
+ GLN    GLN    ARG    TRP    LYS    LEU    ASN    SER    LEU    MET  
+ TRP    ASP    PRO    ASN    GLU    TYR    GLY    ASN    ILE    THR  
+ ASP    PHE    ARG    THR    SER    ALA    ALA    ASP    ILE    TRP  
+ THR    PRO    ASP    ILE    THR    ALA    TYR    SER    SER    THR  
+ ARG    PRO    VAL    GLN    VAL    LEU    SER    PRO    GLN    ILE  
+ ALA    VAL    VAL    THR    HISD   ASP    GLY    SER    VAL    MET  
+ PHE    ILE    PRO    ALA    GLN    ARG    LEU    SER    PHE    MET  
+ CYSS   ASP    PRO    THR    GLY    VAL    ASP    SER    GLU    GLU  
+ GLY    ALA    THR    CYSS   ALA    VAL    LYS    PHE    GLY    SER  
+ TRP    VAL    TYR    SER    GLY    PHE    GLU    ILE    ASP    LEU  
+ LYS    THR    ASP    THR    ASP    GLN    VAL    ASP    LEU    SER  
+ SER    TYR    TYR    ALA    SER    SER    LYS    TYR    GLU    ILE  
+ LEU    SER    ALA    THR    GLN    THR    ARG    GLN    VAL    GLN  
+ HISE   TYR    SER    CYSS   CYSS   PRO    GLU    PRO    TYR    ILE  
+ ASP    VAL    ASN    LEU    VAL    VAL    LYS    PHE    ARG    GLU  
+ ARG    ARGT 
+
+NUMERO DE AMINOACIDOS DA CADEIA : 212
+
+RECONSTRUCAO  DO ATOMO  2060  OXT DO AMINOACIDO   212 ARGT 
+
+NUMERO DE ATOMOS DA CADEIA :  2060
+
+FORAM RECONSTRUIDOS     0 ATOMOS DE HIDROGENIO
+ ASPI   ASP    LYS    LEU    HISE   SER    GLN    ALA    ASN    LEU  
+ MET    ARG    LEU    LYS    SER    ASP    LEU    PHE    ASN    ARG  
+ SER    PRO    MET    TYR    PRO    GLY    PRO    THR    LYS    ASP  
+ ASP    PRO    LEU    THR    VAL    THR    LEU    GLY    PHE    THR  
+ LEU    GLN    ASP    ILE    VAL    LYS    ALA    ASP    SER    SER  
+ THR    ASN    GLU    VAL    ASP    LEU    VAL    TYR    TYR    GLU  
+ GLN    GLN    ARG    TRP    LYS    LEU    ASN    SER    LEU    MET  
+ TRP    ASP    PRO    ASN    GLU    TYR    GLY    ASN    ILE    THR  
+ ASP    PHE    ARG    THR    SER    ALA    ALA    ASP    ILE    TRP  
+ THR    PRO    ASP    ILE    THR    ALA    TYR    SER    SER    THR  
+ ARG    PRO    VAL    GLN    VAL    LEU    SER    PRO    GLN    ILE  
+ ALA    VAL    VAL    THR    HISD   ASP    GLY    SER    VAL    MET  
+ PHE    ILE    PRO    ALA    GLN    ARG    LEU    SER    PHE    MET  
+ CYSS   ASP    PRO    THR    GLY    VAL    ASP    SER    GLU    GLU  
+ GLY    ALA    THR    CYSS   ALA    VAL    LYS    PHE    GLY    SER  
+ TRP    VAL    TYR    SER    GLY    PHE    GLU    ILE    ASP    LEU  
+ LYS    THR    ASP    THR    ASP    GLN    VAL    ASP    LEU    SER  
+ SER    TYR    TYR    ALA    SER    SER    LYS    TYR    GLU    ILE  
+ LEU    SER    ALA    THR    GLN    THR    ARG    GLN    VAL    GLN  
+ HISE   TYR    SER    CYSS   CYSS   PRO    GLU    PRO    TYR    ILE  
+ ASP    VAL    ASN    LEU    VAL    VAL    LYS    PHE    ARG    GLU  
+ ARG    ARGT 
+
+NUMERO DE AMINOACIDOS DA CADEIA : 212
+
+RECONSTRUCAO  DO ATOMO  2064  OXT DO AMINOACIDO   212 ARGT 
+
+NUMERO DE ATOMOS DA CADEIA :  2064
+
+FORAM RECONSTRUIDOS     0 ATOMOS DE HIDROGENIO
