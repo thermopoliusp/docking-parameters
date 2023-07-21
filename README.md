@@ -1,5 +1,19 @@
-Programs and Files Utilized in the Article "Effects of Preprocessing and Simulation Parameters in the Performance of Molecular Docking Studies"
+Programs and Files Utilized in the Article "Effects of Preprocessing and Simulation Parameters on the Performance of Molecular Docking Studies"
 ===============================================================================================================================================
+
+Article Information
+-------------------
+
+This article has been published in the Journal of Molecular Modeling and it can be
+accessed through [this link](https://rdcu.be/dgWlw). Full citation:
+
+CALLIL-SOARES, P. H.; BIASI, L. C. K.; PESSOA FILHO, P. de A. Effect of
+preprocessing and simulation parameters on the performance of molecular docking
+studies. Journal of Molecular Modeling, v. 29, n. 8, p. 251, 2023.
+[![DOI:10.1007/s00894-023-05637-x](https://img.shields.io/badge/DOI-10.1007/s00894--023--05637--x-F39001.svg)](https://doi.org/10.1007/s00894-023-05637-x)
+
+About this repository
+---------------------
 
 In this repository are kept the files (`.pdb`, `.sdf`, among
 others) [[1]](#1), [[2]](#2) that store the molecules analyzed in this work.
@@ -97,7 +111,7 @@ directories `./GROMACS/` and `./GROMACS_LIGAND/`.
 Autorship
 ---------------------
 
-Pedro Henrique Callil Soares <pedrocallil@usp.br>
+Pedro Henrique Callil-Soares <pedrocallil@usp.br>
 
 Lilian Caroline Kramer Biasi <lckbiasi@usp.br>
 
@@ -109,26 +123,32 @@ References
 <a id="1">[1]</a>
 SU, M. et al. Comparative assessment of scoring functions: the casf-2016 update. Journal
 of chemical information and modeling, ACS Publications, v. 59, n. 2, p. 895–913, 2018.
-
+[![DOI:10.1021/acs.jcim.8b00545](https://img.shields.io/badge/DOI-10.1021/acs.jcim.8b00545-3D464D.svg)](https://doi.org/10.1021/acs.jcim.8b00545)
 
 <a id="2">[2]</a>
 S. Jo, T. Kim, V.G. Iyer, and W. Im (2008). CHARMM-GUI: A Web-based Graphical User
 Interface for CHARMM. J. Comput. Chem. 29:1859-1865
+[![DOI:10.1002/jcc.20945](https://img.shields.io/badge/DOI-10.1002/jcc.20945-005274.svg)](https://doi.org/10.1002/jcc.20945)
 
 <a id="3">[3]</a>
 TROTT, O.; OLSON, A. J. Autodock vina: improving the speed and accuracy of docking
 with a new scoring function, efficient optimization, and multithreading. Journal of
 computational chemistry, Wiley Online Library, v. 31, n. 2, p. 455–461, 2010.
+[![DOI:10.1002/jcc.21334](https://img.shields.io/badge/DOI-10.1002/jcc.21334-005274.svg)](https://doi.org/10.1002/jcc.21334)
 
 <a id="4">[4]</a>
 SANTOS-MARTINS, D. et al.  Accelerating AutoDock4 with GPUs and gradient-based local
 search. Journal of chemical theory and computation 17(2), 1060–1073 (2021)
+[![DOI:10.1021/acs.jctc.0c01006](https://img.shields.io/badge/DOI-10.1021/acs.jctc.0c01006-0F7647.svg)](https://doi.org/10.1021/acs.jctc.0c01006)
 
 <a id="5">[5]</a>
 O’BOYLE, N. M. et al. Open babel: An open chemical toolbox. Journal of cheminformatics,
 BioMed Central, v. 3, n. 1, p. 1–14, 2011.
+[![DOI:10.1186/1758-2946-3-33](https://img.shields.io/badge/DOI-10.1186/1758--2946--3--33-037CA2.svg)](https://doi.org/10.1186/1758-2946-3-33)
 
 <a id="6">[6]</a>
 BERENDSEN, H. J.; SPOEL, D. van der; DRUNEN, R. van. Gromacs: a message-passing
 parallel molecular dynamics implementation. Computer physics communications, Elsevier,
 v. 91, n. 1-3, p. 43–56, 1995.
+[![DOI:10.1016/0010-4655(95)00042-E](https://img.shields.io/badge/DOI-10.1016/0010--4655(95)00042--E-227BC0.svg)](https://doi.org/10.1016/0010-4655(95)00042-E)
+
